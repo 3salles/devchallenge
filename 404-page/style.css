@@ -12,3 +12,6 @@ body {
   font-family: 'Space Mono', monospace;
   background: var(--primary-color);
 }
+h1 {
+  font-family: 'Inconsolata', monospace;
+}
