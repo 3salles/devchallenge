@@ -43,6 +43,8 @@ Em cada tópico de projeto terá um projeto diferente com seu design e uma demo 
 Este projeto é para criar uma Página Não Encontrada de acordo com o layout do Figma, veja [aqui](https://www.figma.com/file/QeKWLNhB13zDjJzqR22TKE/404-page-challenge?node-id=0%3A1).
 
 
+🚨 Você deve ter uma conta do [Figma](https://www.figma.com) para acessar ao layout.
+
 Aqui está o resultado: veja a [demo](https://profile-card-component-dq020wqo9.vercel.app)
 ## :page_facing_up: Licença
 
