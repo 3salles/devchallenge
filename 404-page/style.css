@@ -12,53 +12,53 @@
 body {
   font-family: 'Space Mono', monospace;
   background: var(--primary-color);
-  padding: 40px 76px 24px;
+  padding: 2.5rem 4.75rem 1.5rem;
 }
 h1 {
   font-family: 'Inconsolata', monospace;
   font-weight: bold;
-  font-size: 24px;
-  line-height: 25px;
+  font-size: 1.5rem;
+  line-height: 1.625rem;
   letter-spacing: -0.08em;
   text-transform: uppercase;
 }
 h2 {
   font-weight: bold;
-  font-size: 64px;
-  line-height: 95px;
+  font-size: 4rem;
+  line-height: 6rem;
   letter-spacing: -0.035em;
-  width: 586px;
+  width: 36.625rem;
 }
 section {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  margin: 200px 0 308px;
+  margin: 12.5rem 0 19.25rem;
 }
 .image {
   display: flex;
   align-items: center;
   justify-content: center;
-  margin-bottom: 76px;
+  margin-bottom: 4.75rem;
 }
 img {
-  height: 448px;
-  width: 540px;
+  height: 28rem;
+  width: 33.75rem;
 }
 p{
   color: #4F4F4F;
-  font-size: 24px;
-  line-height: 36px;
+  font-size: 1.5rem;
+  line-height: 2.25rem;
   letter-spacing: -0.035em;
-  margin-top: 30px;
-  width: 381px;
+  margin-top: 1.875rem;
+  width: 23.75rem;
 }
 button {
-  margin-top: 66px;
-  padding: 24px 42px;
+  margin-top: 4.125rem;
+  padding: 1.5rem 2.625rem;
   font-weight: bold;
-  font-size: 14px;
-  line-height: 21px;
+  font-size: 0.875rem;
+  line-height: 1.25rem;
   letter-spacing: -0.035em;
   text-transform: uppercase;
   color: var(--primary-color);
@@ -68,17 +68,17 @@ button:hover{
   opacity: 0.8;
 }
 footer {
-  position: fixed;
+  position: relative;
   left: 0;
   bottom: 0;
   width: 100%;
   color: var(--footer-color);
   font-weight: 500;
-  font-size: 14px;
-  line-height: 17px;
+  font-size: 0.875rem;
+  line-height: 1.125rem;
   text-align: center;
   font-family: 'Montserrat', sans-serif;
-  margin-bottom: 24px;
+  margin-bottom: 1.5rem;
 }
 a {
   font-weight: bold;
@@ -87,27 +87,24 @@ a {
 
 @media screen and (max-width: 768px) {
   body {
-    padding: 20px 24px 24px;
+    padding: 1.25rem 1.5rem 1.5rem;
   }
   h2{
-    font-size: 48px;
-    line-height: 71px;
+    font-size: 3rem;
+    line-height: 4.375rem;
     width: 100%;
   }
   section{
     flex-direction: column;
-    margin: 64px 0 114px;
+    margin: 4rem 0 7.125rem;
   }
   img {
-    height: 220px;
-    width: 286px;
+    height: 13.75rem;
+    width: 17.875rem;
   }
   p{
-    font-size: 18px;
-    line-height: 27px;
+    font-size: 1.125rem;
+    line-height: 1.75rem;
     width: 100%;
-  }
-  footer{
-    position: relative;
   }
 }
