@@ -43,6 +43,8 @@ In each project topic there is a different project with its design prototype and
 This challenge is to create a Not Found Page according to Figma layout, check it [here](https://www.figma.com/file/QeKWLNhB13zDjJzqR22TKE/404-page-challenge?node-id=0%3A1).
 
 
+🚨 You need have a [Figma](https://www.figma.com) account to acess the layout.
+
 Here is my result: see [demo](https://profile-card-component-dq020wqo9.vercel.app)
 ## :page_facing_up: License
 
