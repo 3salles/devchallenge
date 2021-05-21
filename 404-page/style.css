@@ -68,7 +68,7 @@ button:hover{
   opacity: 0.8;
 }
 footer {
-  position: fixed;
+  position: relative;
   left: 0;
   bottom: 0;
   width: 100%;
@@ -106,8 +106,5 @@ a {
     font-size: 18px;
     line-height: 27px;
     width: 100%;
-  }
-  footer{
-    position: relative;
   }
 }
