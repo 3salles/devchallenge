@@ -38,6 +38,8 @@ Here I am practicing HTML and CSS concepts using [devChallenge](https://devchall
 
 In each project topic there is a different project with its design prototype and its preview site.
 
+[Aqui](https://devchallenges-omega.vercel.app) está o link para a página inicial. 
+
 ### :pushpin: 404 Page
 
 This challenge is to create a Not Found Page according to Figma layout, check it [here](https://www.figma.com/file/QeKWLNhB13zDjJzqR22TKE/404-page-challenge?node-id=0%3A1).
@@ -45,7 +47,7 @@ This challenge is to create a Not Found Page according to Figma layout, check it
 
 🚨 You need have a [Figma](https://www.figma.com) account to acess the layout.
 
-Here is my result: see [demo](https://profile-card-component-dq020wqo9.vercel.app)
+Here is my result: see [demo](https://devchallenges-omega.vercel.app/404-page/index.html)
 ## :page_facing_up: License
 
 This project uses [MIT](https://github.com/3salles/devchalleng/blob/main/LICENSE) license.
