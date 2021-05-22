@@ -38,6 +38,8 @@ Praticando conceitos de HTML e CSS usando os desafios do [devChallenge](https://
 
 Em cada tópico de projeto terá um projeto diferente com seu design e uma demo do site.
 
+[Aqui](https://devchallenges-omega.vercel.app) está o link para a página inicial. 
+
 ### :pushpin: Página 404
 
 Este projeto é para criar uma Página Não Encontrada de acordo com o layout do Figma, veja [aqui](https://www.figma.com/file/QeKWLNhB13zDjJzqR22TKE/404-page-challenge?node-id=0%3A1).
@@ -45,7 +47,7 @@ Este projeto é para criar uma Página Não Encontrada de acordo com o layout do
 
 🚨 Você deve ter uma conta do [Figma](https://www.figma.com) para acessar ao layout.
 
-Aqui está o resultado: veja a [demo](https://profile-card-component-dq020wqo9.vercel.app)
+Aqui está o resultado: veja a [demo](https://devchallenges-omega.vercel.app/404-page/index.html)
 ## :page_facing_up: Licença
 
 Este projeto usa licença [MIT](https://github.com/3salles/devchalleng/blob/main/LICENSE).
